@@ -1,7 +1,7 @@
 
 ---ADD STAFF (ID, NAME, DESIGNATION)
 BEGIN
-    library_package.add_staff(1,'ASHOK','OWNER');
+    library_package.add_staff(1,'ADMIN','OWNER');
 END;
 
 
